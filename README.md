@@ -1,5 +1,5 @@
 # Rejection sampling from shape-constrained distributions in sublinear time
-In this repository you find all the code necessary to reproduce the figures in our paper "Rejection sampling from shape-constrained distributions in sublinear time", found [here](https://arxiv.org/pdf/2105.14166.pdf). 
+In this repository you find all the code necessary to reproduce the figures in our paper "Rejection sampling from shape-constrained distributions in sublinear time", published at AISTATS 2022. 
 ### Authors
 - [Sinho Chewi ](https://chewisinho.github.io/)
 - [Patrik Gerber](https://patrikgerber.github.io/)
